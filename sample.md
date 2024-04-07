@@ -100,3 +100,20 @@ ___
     def add(num1, num2):
         return num1 + num2;
 ```    
+
+
+
+<!-- Tables -->
+
+| Name      | Email          |
+|-----------| ---------------|
+| John Doe  | john@gmail.com |
+| Jane Dae  | john@gmail.com |
+
+
+
+<!-- Task Lists -->
+
+* [x] Task 1
+* [x] Task 1
+* [ ] Task 1
